@@ -1,0 +1,8 @@
+C:\Programação POO\CAEx1\CAEx1\bin\Debug\CAEx1.exe.config
+C:\Programação POO\CAEx1\CAEx1\bin\Debug\CAEx1.exe
+C:\Programação POO\CAEx1\CAEx1\bin\Debug\CAEx1.pdb
+C:\Programação POO\CAEx1\CAEx1\obj\Debug\CAEx1.csproj.AssemblyReference.cache
+C:\Programação POO\CAEx1\CAEx1\obj\Debug\CAEx1.csproj.SuggestedBindingRedirects.cache
+C:\Programação POO\CAEx1\CAEx1\obj\Debug\CAEx1.csproj.CoreCompileInputs.cache
+C:\Programação POO\CAEx1\CAEx1\obj\Debug\CAEx1.exe
+C:\Programação POO\CAEx1\CAEx1\obj\Debug\CAEx1.pdb
